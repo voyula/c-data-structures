@@ -2,7 +2,7 @@
 
 | Struct |  Methods |
 | --- | --- |
-| [Stack](Stack) | isFull, isEmpty, push, pop |
+| [Stack](Stack) | capacity, isFull, isEmpty, push, pop |
 
 To be added later;
 

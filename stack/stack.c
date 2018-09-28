@@ -18,6 +18,11 @@ struct Stack* createStack(unsigned capacity)
     return stack;
 }
 
+int capacity(struct Stack* stack)
+{
+    return stack->capacity;
+}
+
 bool isFull(struct Stack* stack)
 {
     return stack->top == stack->capacity - 1;
