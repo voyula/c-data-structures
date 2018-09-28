@@ -2,4 +2,4 @@
 
 | Struct |  Methods |
 | --- | --- |
-| Stack(Stack) | Pop, Push |
+| [Stack](Stack) | isFull, isEmpty, push, pop |
