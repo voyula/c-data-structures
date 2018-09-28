@@ -9,4 +9,4 @@ To be added later;
 | Struct |  Methods |
 | --- | --- |
 | [Queue](Queue) | undefined |
-| [LinkedList](Queue) | undefined |
+| [LinkedList](LinkedList) | undefined |
