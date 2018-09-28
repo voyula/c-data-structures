@@ -2,11 +2,11 @@
 
 | Struct |  Methods |
 | --- | --- |
-| [Stack](Stack) | capacity, isFull, isEmpty, push, pop |
+| [Stack](stack) | capacity, isFull, isEmpty, push, pop |
 
 To be added later;
 
 | Struct |  Methods |
 | --- | --- |
-| [Queue](Queue) | undefined |
-| [LinkedList](LinkedList) | undefined |
+| [Queue](queue) | undefined |
+| [LinkedList](linked-list) | undefined |
