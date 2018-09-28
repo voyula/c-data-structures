@@ -4,7 +4,7 @@
 
 struct Stack
 {
-    int top;
+    unsigned top;
     unsigned capacity;
     int* array;
 };
