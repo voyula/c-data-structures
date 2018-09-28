@@ -49,16 +49,3 @@ int pop(struct Stack* stack)
     }
     return stack->array[stack->top--];
 }
-
-int main()
-{
-    struct Stack* stack = createStack(100);
-
-    push(stack, 10);
-    push(stack, 20);
-    push(stack, 30);
-
-    printf("%d popped from stack\n", pop(stack));
-
-    return 0;
-}
