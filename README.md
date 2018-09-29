@@ -6,7 +6,7 @@
 | --- | --- |
 | [Stack](stack) | capacity, clear, isFull, isEmpty, peek, push, pop |
 | [LinkedList](linked-list) | undefined |
-| [Queue](queue) | undefined |
+| [Queue](queue) | capacity, clear, isFull, isEmpty, peek, push, pop |
 | [Graph](graph) | undefined |
 
 ### Algorithms
