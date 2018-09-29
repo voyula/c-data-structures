@@ -9,6 +9,6 @@
 
 Algorithms
 
-| Struct |
+| Algorithm |
 | --- |
 | [Bubble Sort](algorithms/bubble-sort)
