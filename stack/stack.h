@@ -4,8 +4,8 @@
 
 struct Stack
 {
-    unsigned top;
-    unsigned capacity;
+    unsigned int top = -1;
+    unsigned int capacity;
     int* array;
 };
 
@@ -13,7 +13,6 @@ struct Stack* createStack(unsigned capacity)
 {
     struct Stack* stack = (struct Stack*) malloc(sizeof(struct Stack));
     stack->capacity = capacity;
-    stack->top = 0;
     stack->array = (int*) malloc(stack->capacity * sizeof(int));
     return stack;
 }
@@ -30,7 +29,7 @@ bool isFull(struct Stack* stack)
 
 bool isEmpty(struct Stack* stack)
 {
-    return stack->top == 0;
+    return stack->top == -1;
 }
 
 void push(struct Stack* stack, int item)
