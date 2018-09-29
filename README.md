@@ -1,5 +1,7 @@
 # 🚀c-data-structures
 
+### Data Structures
+
 | Struct |  Methods |
 | --- | --- |
 | [Stack](stack) | capacity, clear, isFull, isEmpty, peek, push, pop |
@@ -7,7 +9,7 @@
 | [Queue](queue) | undefined |
 | [Graph](graph) | undefined |
 
-Algorithms
+### Algorithms
 
 | Algorithm |
 | --- |
