@@ -1,4 +1,4 @@
-# 🚀c-data-structures
+# 🚀c-data-structures-and-algorithms
 
 ### Data Structures
 
