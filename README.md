@@ -14,3 +14,4 @@
 | Algorithm |
 | --- |
 | [Bubble Sort](algorithms/bubble-sort)
+| [Quick Sort](algorithms/quick-sort)
