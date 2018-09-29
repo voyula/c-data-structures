@@ -2,7 +2,7 @@
 
 | Struct |  Methods |
 | --- | --- |
-| [Stack](stack) | capacity, isFull, isEmpty, push, pop |
+| [Stack](stack) | capacity, clear, isFull, isEmpty, peek, push, pop |
 | [LinkedList](linked-list) | undefined |
 
 To be added later;
