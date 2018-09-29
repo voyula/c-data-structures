@@ -2,7 +2,7 @@
 
 ## Data Structures
 
-### ADT(Abstract Data Types)
+#### ADT(Abstract Data Types)
 | Struct |  Methods |
 | --- | --- |
 | [Stack](stack) | capacity, clear, isFull, isEmpty, peek, push, pop |
