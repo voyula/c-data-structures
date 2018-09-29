@@ -9,7 +9,7 @@
 | [LinkedList](linked-list) | undefined |
 | [Queue](queue) | capacity, clear, isFull, isEmpty, peek, push, enQueue, deQueue |
 
-### Algorithms
+## Algorithms
 
 | Algorithm |
 | --- |
