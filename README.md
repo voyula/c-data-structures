@@ -1,13 +1,13 @@
 # 🚀c-data-structures-and-algorithms
 
-### Data Structures
+## Data Structures
 
+### ADT(Abstract Data Types)
 | Struct |  Methods |
 | --- | --- |
 | [Stack](stack) | capacity, clear, isFull, isEmpty, peek, push, pop |
 | [LinkedList](linked-list) | undefined |
 | [Queue](queue) | capacity, clear, isFull, isEmpty, peek, push, enQueue, deQueue |
-| [Graph](graph) | undefined |
 
 ### Algorithms
 
