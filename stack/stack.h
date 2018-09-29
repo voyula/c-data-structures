@@ -17,7 +17,7 @@ struct Stack* createStack(unsigned capacity)
     return stack;
 }
 
-int capacity(struct Stack* stack)
+unsigned int capacity(struct Stack* stack)
 {
     return stack->capacity;
 }
