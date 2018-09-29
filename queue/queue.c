@@ -54,7 +54,6 @@ int dequeue(struct Queue* queue)
 int front(struct Queue* queue)
 {
     if (isEmpty(queue)) {
-
         return INT_MIN;
     }
     return queue->array[queue->front];
@@ -63,7 +62,6 @@ int front(struct Queue* queue)
 int rear(struct Queue* queue)
 {
     if (isEmpty(queue)) {
-
         return INT_MIN;
     }
     return queue->array[queue->rear];
