@@ -4,6 +4,11 @@
 void bubbleSort(int sort[])
 {
     for (int i = 0; i < 5; i++) {
+        printf("%d ", sort[i]);
+    }
+    printf("\n");
+
+    for (int i = 0; i < 5; i++) {
         for (int j = 1; j < 5 - i; j++) {
             if (sort[j - 1] > sort[j]) {
                 int temp = sort[j];
