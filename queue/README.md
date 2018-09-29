@@ -1,3 +1,3 @@
-LIFO(Last in First Out)
+FIFO(First in First Out)
 
-<img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/stack.png">
+<img src="https://www.studytonight.com/data-structures/images/introduction-to-queue.png">

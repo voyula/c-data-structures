@@ -6,3 +6,9 @@
 | [LinkedList](linked-list) | undefined |
 | [Queue](queue) | undefined |
 | [Graph](graph) | undefined |
+
+Algorithms
+
+| Struct |  Methods |
+| --- | --- |
+| [Bubble Sort](algorithms/bubble-sort)
